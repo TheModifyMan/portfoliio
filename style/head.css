@@ -1,39 +1,60 @@
 .head {
-    margin-top: 100px;
+    background-size: cover;
+    height: 750px;
+    background-repeat: no-repeat;
+    background-image: url(/img/Hero\ section.png);
 }
 
-.link {
-    position: absolute;
-    text-align: center;
+.navigation {
+    margin-top: 48px;
     display: flex;
-    flex-direction: row; 
+    flex-direction: row;
+    border-bottom-width: 2px; /* Толщина линии внизу */
+    border-bottom-style: solid; /* Стиль линии внизу */
+    border-bottom-color: grey; /* Цвет линии внизу */
 }
 
-.link_buttons {
-    font-weight: 800px;
-    font-size: 12px;
-    line-height: 16px;
-    letter-spacing: 3px;
+.navigation_list {
+    display: flex;
+    flex-direction: row;
+    margin-left: 210px;  
+}
+
+.navigation_link {
+    margin-left: 20px;
     text-transform: uppercase;
-    font-style: normal;
-    margin-left: 73px;
-    color: #007FFF
 }
 
-.link_buttons a {
-    text-decoration: none;;
+.navigation_link a {
+    color: white;
+    text-decoration: none;
 }
 
-.link_buttons :hover {
-    opacity: 0.6;
+.button_list {
+    display: flex;
+    flex-direction: row;
+    margin-left: 260px; 
 }
 
-.link_buttons :first-child {
-    margin-left: 73px;
+.form_but {
+    color: white;
+    line-height: 18px;
+    padding: 0 33px;
+    background: none;
+    font-size: 13px;
+    text-transform: uppercase;
+    border: none;
 }
 
-.circle {
-    margin-top: -15px;
-    position: relative;
-    border-radius: 100px;
+.form_butt {
+    margin-top: -5px;
+    height: 35px;
+    line-height: 18px;
+    padding: 0 33px;
+    color: white;
+    font-size: 13px;
+    text-transform: uppercase;
+    background: none;
+    border-radius: 40px;
+    border: 2px solid white;
 }
