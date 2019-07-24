@@ -1,0 +1,48 @@
+.features {
+    margin-top: 125px;
+    background-image: url(/img/Features.png);
+    background-repeat: no-repeat;
+    height: 650px;
+    background-size: cover;
+}
+
+.features_all {
+    margin-top: 59px;
+}
+
+.pic_ftrs {
+    float: left;
+}
+
+.features_head {
+    margin-top: 42px;
+    font-weight: normal;
+    font-style: normal;
+    font-size: 24px;
+    line-height: 33px;
+    color: #3D4351;
+}
+
+.features_description {
+    margin-top: 8px;
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 25px;
+    color: rgba(28, 54, 83, 0.7);
+}
+
+.features_list {
+    margin-left: 70px;
+}
+
+.features_header {
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 20px;
+}
+
+.feature {
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 25px;
+}

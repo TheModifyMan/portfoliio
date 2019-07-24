@@ -1,3 +1,26 @@
 .hero_content {
     margin-top: 147px;
 }
+
+.design {
+    color: white;
+    font-size: 60px;
+    line-height: 82px;
+    font-weight: normal;
+    text-align: center;
+}
+
+.introducing {
+    color: white;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 27px;
+    text-align: center;
+}
+
+.button_link {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 84px;
+}

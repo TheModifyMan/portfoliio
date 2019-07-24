@@ -9,9 +9,9 @@
     margin-top: 48px;
     display: flex;
     flex-direction: row;
-    border-bottom-width: 2px; /* Толщина линии внизу */
-    border-bottom-style: solid; /* Стиль линии внизу */
-    border-bottom-color: grey; /* Цвет линии внизу */
+    border-bottom-width: 2px;
+    border-bottom-style: solid;
+    border-bottom-color: grey;
 }
 
 .navigation_list {
@@ -21,6 +21,7 @@
 }
 
 .navigation_link {
+    display: flex;
     margin-left: 20px;
     text-transform: uppercase;
 }
@@ -30,31 +31,6 @@
     text-decoration: none;
 }
 
-.button_list {
-    display: flex;
-    flex-direction: row;
-    margin-left: 260px; 
-}
-
-.form_but {
-    color: white;
-    line-height: 18px;
-    padding: 0 33px;
-    background: none;
-    font-size: 13px;
-    text-transform: uppercase;
-    border: none;
-}
-
-.form_butt {
-    margin-top: -5px;
-    height: 35px;
-    line-height: 18px;
-    padding: 0 33px;
-    color: white;
-    font-size: 13px;
-    text-transform: uppercase;
-    background: none;
-    border-radius: 40px;
-    border: 2px solid white;
+.navigation_link :hover {
+    opacity: 0.6;
 }

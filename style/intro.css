@@ -1,0 +1,27 @@
+.intro {
+    margin-top: 120px;
+    margin-bottom: 83px;
+}
+
+.pic {
+    float: left;
+    margin-left: 20px;
+}
+
+.introducing_list {
+    margin-left: 90px;
+}
+
+.entry_header {
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 20px;
+    color: #3D4351;
+}
+
+.entry {
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 25px;
+    color: #607286;
+}

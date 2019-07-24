@@ -1,0 +1,57 @@
+.button_link_hero {
+    margin-left: 21px;
+}
+
+.form_but_link_dwnld {
+    height: 55px;
+    line-height: 18px;
+    padding: 0 33px;
+    color: white;
+    font-size: 13px;
+    text-transform: uppercase;
+    background-color: #FF5274;
+    border-radius: 40px;
+    border: none;
+}
+
+.form_but_link_lrn {
+    height: 55px;
+    color: white;
+    line-height: 18px;
+    padding: 0 33px;
+    background: none;
+    font-size: 13px;
+    text-transform: uppercase;
+    border: 2px solid #FF5274;
+    border-radius: 40px;
+}
+
+
+.button_list {
+    display: flex;
+    flex-direction: row;
+    margin-left: 260px; 
+}
+
+.form_but {
+    color: white;
+    line-height: 18px;
+    padding: 0 33px;
+    background: none;
+    font-size: 13px;
+    text-transform: uppercase;
+    border: none;
+}
+
+.form_butt {
+    margin-top: -5px;
+    height: 35px;
+    line-height: 18px;
+    padding: 0 33px;
+    color: white;
+    font-size: 13px;
+    text-transform: uppercase;
+    background: none;
+    border-radius: 40px;
+    border: 2px solid white;
+}
