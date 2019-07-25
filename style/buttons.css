@@ -81,3 +81,30 @@
     border: 2px solid #FF5274;
     border-radius: 40px;
 }
+
+.gallery_button {
+    margin-top: 57px;
+    height: 40px;
+    color: #FF5274;
+    line-height: 18px;
+    padding: 0 33px;
+    background: none;
+    font-size: 13px;
+    text-transform: uppercase;
+    border: 2px solid #FF5274;
+    border-radius: 40px;    
+}
+
+.button__form {
+    margin-top: -10px;
+    height: 55px;
+    width: 400px;
+    color: white;
+    line-height: 18px;
+    padding: 0 33px;
+    background: #FF5274;
+    font-size: 13px;
+    text-transform: uppercase;
+    border-radius: 5px;
+    border: none;
+}

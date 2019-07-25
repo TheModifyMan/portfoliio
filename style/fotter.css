@@ -1,0 +1,14 @@
+.footer {
+    height: 426px;
+    position: relative;
+}
+
+.footer_left {
+    margin: 0;
+    background-color: #3D4351;
+}
+
+.footer_right {
+    margin: 0;
+    background-color: #373D4A;
+}
