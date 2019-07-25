@@ -55,3 +55,29 @@
     border-radius: 40px;
     border: 2px solid white;
 }
+
+.designed_button {
+    margin-top: 266px;
+    height: 41px;
+    color: #FF5274;
+    line-height: 18px;
+    padding: 0 33px;
+    background: none;
+    font-size: 13px;
+    text-transform: uppercase;
+    border: 2px solid #FF5274;
+    border-radius: 40px;
+}
+
+.cus_but {
+    margin-top: 88px;
+    height: 55px;
+    color: #FF5274;
+    line-height: 18px;
+    padding: 0 33px;
+    background: none;
+    font-size: 13px;
+    text-transform: uppercase;
+    border: 2px solid #FF5274;
+    border-radius: 40px;
+}

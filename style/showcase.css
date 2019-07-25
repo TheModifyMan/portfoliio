@@ -1,0 +1,69 @@
+.showcase {
+    margin-top: 178px;
+}
+
+.showcase_head {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 33px;
+    color: #3D4351;
+}
+
+.exe_head {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 20px;
+    color: #3D4351;
+}
+
+.exe_desc {
+    margin-top: 20px;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 30px;
+    color: #7A8387;
+}
+
+.dscrptn {
+    margin-top: 82px;
+}
+
+.spread {
+   margin-left: 100px;
+}
+
+.gallery {
+    margin-top: 108px;
+    justify-content: center;
+    display: flex;
+    flex-direction: row;
+}
+
+.gallery_list {
+    text-align: center
+}
+
+.gallery_img {
+    width: 474px;
+}
+
+.gal_head {
+    margin-top: 34px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 11px;
+    line-height: 15px;    
+    color: #ACB1B4;   
+}
+
+.gal_des {
+    margin-top: 6px;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 30px;
+    color: #677074;
+}
