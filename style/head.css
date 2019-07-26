@@ -33,4 +33,22 @@
 
 .navigation_link :hover {
     opacity: 0.6;
-} 
+}
+
+.button_link_hero {
+    margin-left: 21px;
+}
+
+.button_link_hero :hover {
+    opacity: 0.7;
+}
+
+.button_list {
+    display: flex;
+    flex-direction: row;
+    margin-left: 260px; 
+}
+
+.button_list :hover {
+    opacity: 0.7;
+}

@@ -22,3 +22,7 @@
 .diamond {
     margin-top: 54px;
 }
+
+.but_cus :hover {
+    opacity: 0.7;
+}

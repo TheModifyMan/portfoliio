@@ -14,3 +14,7 @@
     font-size: 24px;
     line-height: 33px;
 }
+
+.designed_but :hover{
+    opacity: 0.7;
+}

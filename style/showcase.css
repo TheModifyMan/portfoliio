@@ -71,3 +71,11 @@
 .gal_but {
     text-align: center
 }
+
+.gal_but :hover {
+    opacity: 0.7;
+}
+
+.gallery__hov :hover {
+    opacity: 0.7;
+}
